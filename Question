@@ -1,0 +1,36 @@
+# Cricket World Cup Analysis
+
+Data: https://www.kaggle.com/code/venky73/icc-cricket-world-cup-2019-analysis/input
+
+Questions:- 
+
+Regarding Pitches
+1.	Gather the Data of World Cup Venues.
+2.	Store and Analyze the Data of Venues.
+3.	How many matches are played in those venues after 2012?
+4.	Out of those, How many does each Team won?
+5.	What's the winning Percentage of WC Teams?
+6.	Does Batting First or Second matters in these pitches?
+7.	What's the average Score necessary to win matches in these Venues?
+8.	Which Team gets the benefit of these Pitches?
+9.	What is the average number of wickets taken per innings in these Pitches?
+10.	What are the highest Run Scoring Pitches?
+Regarding Batsmen
+1.	Who are the Best Batsmen to be watched this WC?
+2.	How many Batsmen have an Average above 40?
+3.	Who has the Best Batting Average?
+4.	Who are the top 5 Best Batsman based on Average?
+5.	Who has the Best Strike Rate?
+6.	Who are the top 5 Best Batsman based on Strike Rate?
+7.	Who scored most number of Boundaries?
+8.	Which Team has most number of Best Batsman?
+Regarding Bowlers
+1.	Who are the Best Bowlers to be watched this WC?
+2.	How many Bowlers have an Average less than 40?
+3.	Who has the Best Bowling Average?
+4.	Who are the top 5 Best Bowlers based on Average?
+5.	Who has the Best Strike Rate?
+6.	Who are the top 5 Best Bowlers based on Strike Rate?
+7.	Who has the best Economy?
+8.	Which Team has the most number of Best Bowlers?
+
